@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    margin: 0 auto;  
+    font-family: 'Roboto Slab', serif;
+    background-image: url(./weather.png);
+}
+
+.card{
+    padding: 3%;
+    border-radius: 35%;
+    background-color: #7c98a5;
+
+}
+
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30%;
+
+}
